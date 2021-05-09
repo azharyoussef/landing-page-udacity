@@ -3,10 +3,15 @@
 
 ## Table of Contents
 Overview
+
 Architecture
+
 Languages Used
+
 Requirements
+
 Site Screenshot
+
 Author
 
 
