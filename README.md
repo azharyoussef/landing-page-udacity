@@ -2,10 +2,15 @@
 Landing Page Project
 
 Table of Contents
+
 Overview
+
 Architecture
+
 Languages Used
+
 Requirements
+
 Author
 
 
