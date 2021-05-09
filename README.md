@@ -6,6 +6,7 @@
 - Architecture
 - Languages Used
 - Requirements
+- Site Screenshot
 - Author
 
 
@@ -33,6 +34,10 @@ This project includes the following files:
 - Adding the functionality to scroll to sections
 - Adding the functionality to highlight the current/clicked section
 - Adding additional sections to the HTML document
+
+### Site Screenshot:
+
+![Image of site_interface](https://github.com/azharyoussef/landing-page-udacity/blob/master/Site%20interface.PNG)
 
 ### Author:
 
