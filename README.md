@@ -2,17 +2,12 @@
 # Landing Page Project
 
 ## Table of Contents
-Overview
-
-Architecture
-
-Languages Used
-
-Requirements
-
-Site Screenshot
-
-Author
+- Overview
+- Architecture
+- Languages Used
+- Requirements
+- Site Screenshot
+- Author
 
 
 ### Overview:
